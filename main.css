@@ -1,0 +1,15 @@
+/* line 1, scss/main.scss */
+.hidden {
+  visibility: hidden; }
+
+/* line 4, scss/main.scss */
+.headers {
+  height: 150px; }
+
+/* line 9, scss/main.scss */
+ul li {
+  list-style-type: none; }
+
+/* line 12, scss/main.scss */
+ul li:nth-child(odd) {
+  background-color: #948787; }
